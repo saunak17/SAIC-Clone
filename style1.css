@@ -1,0 +1,173 @@
+.logo1{
+    padding-left: 50px;
+}
+.logo2{
+    padding-right: 50px;
+}
+.icons{
+    padding-top: 13px;
+    margin-left: 200px;
+    color: rgb(99, 98, 98);
+}
+.icons i{
+    padding: 7px;
+    border: 1px solid lightgray;
+    border-radius: 15%;
+}
+.navbar{
+    background: linear-gradient(to right, rgb(139, 69, 19) 35%, rgb(69, 32, 10) );
+    display: flex;
+    height: 55px;
+}
+.saic_logo{
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 2px;
+    width:2px
+}
+.ul1{
+    text-decoration: none;
+    display: flex;
+    margin-left: 115vh;
+    margin-bottom: 2vh;
+}
+.ul1 li{
+    list-style: none;
+    padding: 10px;
+    color: white;
+}
+.event_bar{
+    background-image: url(home1.jpg);
+    background-size: cover;
+    display: flex;
+}
+.eb_1{
+    padding-top: 50px;
+    padding-left: 80px;
+}
+.eventlogo{
+    border-radius: 50%;
+    margin-left: 11vh;
+}
+.main-box{
+    width:475px; 
+    height:320px; 
+    background-image: url('event_bg.jpg'); 
+    background-size: cover; 
+    padding: 20px;
+    margin-left: 60px;
+}
+.main-box #head1{
+    text-align: center;
+    font-size: 3.25vh;
+    padding-top: 15px;
+    color: white;
+    margin-bottom: 8px;
+}
+.inner-box{
+    width:425px; 
+    height:130px; 
+    background-color: white; 
+    margin-left: 6px;
+}
+#countdown{
+    text-align: center;
+    font-size: 35px;
+}
+.time{
+    list-style: none;
+    display: flex;
+    color: white;
+    justify-content: center;
+    padding-right: 40px;
+}
+.inner-box #content{
+    color: #333; 
+    background-color: #fff; 
+    padding: 10px;
+    text-align: center; 
+    font-size: 18px;
+    line-height: 3.75vh;
+}
+.saic_intro{
+    background-image: url(caair_bg.jpg);
+}
+.caair_heading{
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; 
+    text-align: center;
+    font-weight: 700;
+    color: white;
+    padding-top: 2vh;
+    line-height: 7vh;
+    justify-content: center;
+}
+.abtsaic{
+    color: white;
+    text-align: justify; 
+    font-size: 18px;
+    padding: 30px;
+    line-height: 4vh;
+    margin-top: 0%;
+}
+.footer-wrapper{
+     background-image: url(footer_bg1.jpg);
+     background-size: cover;
+     position: relative;
+     display:flex;
+     justify-content: center;
+     padding: 10vh;
+}
+.footer-wrapper h5{
+    color: #ED8700;
+    font-size: 16px;
+    padding-left: 4vh;
+}
+.footer-wrapper li{
+    color: white;
+    line-height: 4vh;
+    font-size: 15px;
+}
+.footer-wrapper li::marker{
+    color: rgb(206, 206, 206);
+}
+.ft_logo{
+    padding-top: 21px;
+}
+.ft_logo i{
+    color: lightgray;
+    padding-left: 10px;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 15%;
+    margin-left: 5px;
+}
+.ft_ul1{
+    padding-left: 4.5vh;
+}
+.ft_ul2{
+    padding-left: 6vh;
+}
+.ft_ul3{
+    padding-left: 13vh;
+}
+.contact{
+    list-style: none;
+    padding-right: 1.5vh;
+}
+.contact #address{
+    line-height: normal;
+}
+.ft_head2{
+    color: #ED8700;
+    padding-top: 2vh;
+}
+.copyright{
+    height: 35px;
+    width: 100%;
+    padding-top: 0.5vh;
+    padding-bottom: 2vh;
+    text-align: center;
+    color:white;
+    background-color: rgb(46, 46, 46);
+}
